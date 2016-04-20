@@ -1,2 +1,2 @@
-# Multiplication_Table
+# Multiplication Table
 A multiplication table web app useing AngularJS
